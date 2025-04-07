@@ -181,4 +181,4 @@ def update_graph(metrica, ciudades, rango_anos):
 
 # Ejecutar la aplicación
 if __name__ == '__main__':
-    app.run(debug=True, dev_tools_ui=False)
+    app.run(debug=True)
