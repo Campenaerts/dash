@@ -2,7 +2,6 @@ absl-py==2.1.0
 accessible-pygments==0.0.5
 alabaster==0.7.16
 altair==5.5.0
-anaconda-anon-usage
 ansi2html==1.9.2
 anyio==4.8.0
 archspec
